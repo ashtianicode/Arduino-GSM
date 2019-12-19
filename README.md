@@ -1,2 +1,2 @@
-# Arduino-Sim900
-very simple code for controling sim900 module using arduino in order to control a pin with sms.
+# Arduino-GSM 
+Aurduino and AT commands for getting text messages from a sim900 module and controlling a pin
